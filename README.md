@@ -3,7 +3,7 @@ Remote repository for BCG stuffs<br>
 **First Update**
 ![Scooby](https://user-images.githubusercontent.com/73837835/215006783-4976d625-a14f-4a11-acfb-ce46178a43f6.jpg)
 2nd update<br>
-3rd update and testing a pull request from sjdude3
-4th update from PC
-5th update!!!
-6th update!
+3rd update and testing a pull request from sjdude3<br>
+4th update from PC<br>
+5th update!!!<br>
+6th update!<br>
